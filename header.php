@@ -9,6 +9,7 @@
   <h1 class="text-center text-dark">PHP | P5-ex<?= $exerciseNb ?></h1>
   <div class="container text-center">
     <nav>
+      <a href="http://php-partie4/exercice1/">partie4</a>
       <a href="http://pt5ex1/">ex1</a>
       <a href="http://pt5ex2/">ex2</a>
       <a href="http://pt5ex3/">ex3</a>
