@@ -1,0 +1,35 @@
+body{
+    background-color: #cacaca;
+}
+h1{
+  font-size: 50px;
+}
+h2{
+    text-decoration: underline;
+}
+p{
+    font-size: 19px;
+}
+a{
+    font-size: 18px;
+}
+.link{
+    color: white;
+    font-size: 20px;
+    margin: 0 8px;
+}
+.link:hover{
+  color: white;
+}
+nav{
+  margin-bottom: 5%;
+}
+/*
+To change this license header, choose License Headers in Project Properties.
+    To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 12 déc. 2019, 11:18:29
+    Author     : mumei
+*/
